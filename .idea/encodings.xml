@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/breeze-api/breeze-api-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-api/breeze-api-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-common/breeze-common-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-common/breeze-common-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-common/breeze-common-datascope/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-common/breeze-common-datascope/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-common/breeze-common-log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-common/breeze-common-log/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-common/breeze-common-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-common/breeze-common-redis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-common/breeze-common-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-common/breeze-common-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-common/breeze-common-swagger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-common/breeze-common-swagger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-modules/breeze-gen/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-modules/breeze-gen/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-modules/breeze-job/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-modules/breeze-job/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-modules/breeze-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-modules/breeze-system/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-visual/breeze-monitor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/breeze-visual/breeze-monitor/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
