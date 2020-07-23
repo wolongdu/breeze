@@ -6,7 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="breeze" />
+        <module name="breeze-common-swagger" />
+        <module name="breeze-common-datascope" />
+        <module name="breeze-visual-monitor" />
+        <module name="breeze-modules-system" />
+        <module name="breeze-gateway" />
+        <module name="breeze-common-redis" />
+        <module name="breeze-auth" />
+        <module name="breeze-common-log" />
+        <module name="breeze-api-system" />
+        <module name="breeze-modules-gen" />
+        <module name="breeze-modules-job" />
+        <module name="breeze-common-core" />
+        <module name="breeze-common-security" />
       </profile>
     </annotationProcessing>
   </component>
