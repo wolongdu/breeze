@@ -1,0 +1,8 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.breeze.common.security.service.UserDetailsServiceImpl,\
+  com.breeze.common.security.service.PermissionService,\
+  com.breeze.common.security.config.MethodSecurityConfig,\
+  com.breeze.common.security.handler.CustomAccessDeniedHandler,\
+  com.breeze.common.security.handler.GlobalExceptionHandler
+
+  

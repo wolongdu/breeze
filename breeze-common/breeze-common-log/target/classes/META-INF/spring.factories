@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.breeze.common.log.service.AsyncLogService,\
+  com.breeze.common.log.aspect.LogAspect

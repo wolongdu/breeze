@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.breeze.common.datascope.service.AwaitUserService,\
+  com.breeze.common.datascope.aspect.DataScopeAspect
+
+  

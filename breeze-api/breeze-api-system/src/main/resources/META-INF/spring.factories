@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.breeze.system.api.factory.RemoteUserFallbackFactory,\
+  com.breeze.system.api.factory.RemoteLogFallbackFactory

@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.breeze.common.redis.configure.RedisConfig,\
+  com.breeze.common.redis.service.RedisService
+
+  
